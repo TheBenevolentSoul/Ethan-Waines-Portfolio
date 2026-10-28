@@ -16,7 +16,7 @@ img {
 
 /* The hero section styling- use your OWN Hero Image URL here */
 .hero {
-    background-image: url('images/Ethan Waines Projects.png');
+    background-image: url('images/ethan-waines-projects.png');
     height: 25vh;
     background-size: cover;
     background-position: center;
