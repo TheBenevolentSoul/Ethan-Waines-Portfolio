@@ -78,3 +78,16 @@ img {
     text-align: right;
     padding: 3em 3em;
 }
+
+/*Styling for the links */
+a:link{
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited{
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
